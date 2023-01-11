@@ -59,8 +59,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.tga
-
-*.psd
 *.controller
 
 *.tif
